@@ -1,0 +1,3 @@
+[submodule "terraform-qdrant-accounts-cluster"]
+	path = terraform-qdrant-accounts-cluster
+	url = git@github.com:c0x12c/terraform-qdrant-accounts-cluster.git
